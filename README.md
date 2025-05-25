@@ -1,14 +1,13 @@
-<h1 align="left">Hello World! I'm Aufar Danu Pratama 👋</h1>
+<h1 align="left">Hello World!👋</h1>
 
 ###
 
+<p alig="left">👋 Hi, I’m @aufardp</p>
 <p align="left">🔭 I’m currently working on Telkom Akses Indonesia</p>
-<p align="left">🌱 I’m currently learning React and Laravel Framework</p>
-👋 Hi, I’m @aufardp
-👀 I’m interested in Programming
-🌱 I’m currently learning React and Laravel Framework
-💞️ I’m looking to collaborate on not now
-📫 How to reach me ...
+<p alig="left">👀 I’m interested in Programming</p>
+<p alig="left">🌱 I’m currently learning React and Laravel Framework</p>
+<p alig="left">💞️ I’m looking to collaborate on not now</p>
+<p alig="left">📫 How to reach me ...</p>
 
 ###
 
@@ -99,7 +98,7 @@
   <a href="aufardanu@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/aufardp" target="_blank">
+  <a href="https://www.linkedin.com/in/aufardp/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
