@@ -3,10 +3,12 @@
 ###
 
 <p align="left">🔭 I’m currently working on Telkom Akses Indonesia</p>
-
-###
-
 <p align="left">🌱 I’m currently learning React and Laravel Framework</p>
+👋 Hi, I’m @aufardp
+👀 I’m interested in Programming
+🌱 I’m currently learning React and Laravel Framework
+💞️ I’m looking to collaborate on not now
+📫 How to reach me ...
 
 ###
 
