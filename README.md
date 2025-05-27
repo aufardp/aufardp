@@ -5,7 +5,7 @@
 <p alig="left">👋 Hi, I’m @aufardp</p>
 <p align="left">🔭 I’m currently working on Telkom Akses Indonesia</p>
 <p alig="left">👀 I’m interested in Programming</p>
-<p alig="left">🌱 I’m currently learning React and Laravel Framework</p>
+<p alig="left">🌱 I’m currently learning NextJS, React and Laravel Framework</p>
 <p alig="left">💞️ I’m looking to collaborate on not now</p>
 <p alig="left">📫 How to reach me ...</p>
 
