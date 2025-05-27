@@ -103,7 +103,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/aufardp/aufardp/output/snake.svg" alt="Snake animation" />
-
-###
