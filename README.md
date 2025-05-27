@@ -87,10 +87,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d5emw3NXc4YXA3MDRlM3VocW01ZGt2YW00cngxdnR3aHM4NzU4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif"  />
-
-###
-
 <div align="left">
   <a href="https://www.youtube.com/@bangdorkas" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
