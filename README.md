@@ -51,8 +51,9 @@
 </div>
 
 ###
+###
 
-<p align="left">Version</p>
+<p align="center">Version</p>
 
 ###
 
@@ -63,6 +64,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
 </div>
 
+###
 ###
 
 <p align="center">Database</p>
