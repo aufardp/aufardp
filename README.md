@@ -2,10 +2,6 @@
 
 ###
 
-<h2 align="left">My Favorite Game</h2>
-
-###
-
 <p align="center">Languages, Framework, Library and DevOps</p>
 
 ###
